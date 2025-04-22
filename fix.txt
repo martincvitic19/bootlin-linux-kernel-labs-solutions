@@ -1,0 +1,1 @@
+am335x-boneblack-cusomt.dtb lights up only  LEDs 1 and 3, while .config nad zImage are responsible for driving proper LED activity.
